@@ -9,6 +9,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
 
+//i hope this works
 function App() {
   useEffect(() => {
     AOS.init({
