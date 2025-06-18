@@ -1,0 +1,8 @@
+node_modules
+.next
+out
+.DS_Store
+.env
+
+# optional yarn lock
+yarn.lock
